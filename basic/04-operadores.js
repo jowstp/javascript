@@ -17,3 +17,29 @@ console.log(a)
 //decremento
 b--
 console.log(b)
+
+//asignacion
+
+c = 15
+console.log(c)
+c += 5
+console.log(c)
+/*
+
++=
+-=
+*=
+/=
+%=
+**=
+
+*/
+
+//comparação
+console.log(a == b)
+console.log(a >= b)
+console.log(a <= b)
+console.log(a > b)
+console.log(a < b)
+console.log(a === 6)
+console.log(a === "6")
